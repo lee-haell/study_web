@@ -1,6 +1,18 @@
 <!DOCTYPE html>
 <html lang="ko">
 <head>
+	<!--
+		웹사이트 방문자 분석기 기능 | Ggoole Analytics
+	-->
+	<!-- Google tag (gtag.js) -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-39XBYD4PZF"></script>
+	<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+
+	gtag('config', 'G-39XBYD4PZF');
+	</script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
@@ -17,6 +29,9 @@
 		<img src="./tim.png" width="100%">
 		</p><p style="margin-top:45px;">Integer auctor elit at magna facilisis, non pretium nulla ullamcorper. Aenean vitae est felis. Duis fringilla lorem a mi vestibulum feugiat. Cras id sapien ac ipsum malesuada iaculis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Proin quis eros at purus elementum tristique et non ligula.</p>
 		<p>
+			<!--
+				댓글 기능 | DISQUS
+			-->
 			<div id="disqus_thread"></div>
 			<script>
 				/**
@@ -37,5 +52,21 @@
 			</script>
 			<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 		</p>
+		<!--
+			라이브 채팅 기능 | tawk
+		-->
+		<!--Start of Tawk.to Script-->
+		<script type="text/javascript">
+			var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+			(function(){
+			var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+			s1.async=true;
+			s1.src='https://embed.tawk.to/66977179becc2fed69268c02/1i2vp6hes';
+			s1.charset='UTF-8';
+			s1.setAttribute('crossorigin','*');
+			s0.parentNode.insertBefore(s1,s0);
+			})();
+		</script>
+		<!--End of Tawk.to Script-->
 	</body>
 </html>

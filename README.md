@@ -1,4 +1,11 @@
-# 생활코딩 - WEB1<br>
+# 생활코딩 - WEB<br>
+
+<a href="https://it-study-site.super.site/web/%ec%83%9d%ed%99%9c%ec%bd%94%eb%94%a9-web1-html-internet" target="_blank">1. WEB1 - HTML & Internet</a><br>
+<a href="https://it-study-site.super.site/web/%ec%83%9d%ed%99%9c%ec%bd%94%eb%94%a9-web2-css" target="_blank">2. WEB2 - CSS</a><br>
+<a href="https://it-study-site.super.site/web/%ec%83%9d%ed%99%9c%ec%bd%94%eb%94%a9-web2-javascript" target="_blank">3. WEB2 - JavaScript</a><br>
+
+<br>
+
 My Computer - 코드를 작업한 내 컴퓨터<br>
 Hosting - 서비스를 대신해서 제공하는 호스팅<br>
 Viewer - 내 웹 사이트를 방문하는 방문자<br><br>
@@ -11,9 +18,12 @@ Viewer - 내 웹 사이트를 방문하는 방문자<br><br>
 6. 웹 서버는 방문자에게 코드 파일을 전송한다.
 7. 방문자의 컴퓨터에 해당 웹 페이지가 표시된다.
 
+<br>
+
 ![Untitled](https://github.com/user-attachments/assets/17a7e6c1-3188-4cda-972a-ea0f1a7802f4)
 
-<br>
+<br><br>
+
 <b>원시웹</b>
 <hr>
 Q. 인터넷과 웹은 같을까, 다를까?<br>
@@ -55,5 +65,3 @@ A. 웹 브라우저는 논리적인 시스템, 추상적인 대상<br>
 하지만 우리는 매일 웹 브라우저를 쓰고 얘기하기 때문에 물질이라고 생각함.<br>
 웹 서버는 웹 브라우저와 같이 인터넷에서 다운로드 받아서 컴퓨터에 깔고 사용하면 되는 프로그램.<br> 
 우리가 써본 적이 없기 때문에 추상적으로 느끼는 것.<br><br>
-
-<a href="https://haell.notion.site/WEB1-664ba89ff48f4954ac075c54eeefc624?pvs=4" target="_blank">WEB1 노션 정리</a>

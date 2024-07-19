@@ -1,0 +1,10 @@
+@media (max-width: 767px) {
+    .link__area {
+        display: block;
+    }
+
+    .link__cont {
+        padding-left: 0;
+        border-left: none;
+    }
+}
